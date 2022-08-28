@@ -1,0 +1,6 @@
+1. How many lines does it contain?
+74167
+2. How many words does it contain?
+422136
+3. How many lines are not blank? (All lines - Blank Lines = Non-Blank Lines)
+74167 - 386 = 73781
