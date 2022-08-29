@@ -1,4 +1,3 @@
-
 Operators:
 1. 'j' is 1, 'i' is 2.
 
@@ -19,4 +18,15 @@ Numbers:
 int have the ability to be atleast 16 bits, long has a size of atleast 32 bits
 and long long has the size of atleast 64 bits. 
 
-2. 
+2. Both double and float are a form of Floating Point number, which are used 
+to represent decimal numbers. The difference between the both is that double 
+twice as much precision over float. Float holds 32 bits while Double holds 
+64 bits. Value of i will be '3'.
+
+3. Signed variables have the ability to hold positive and negative integers, 
+while unsigned variables only hold non-negative numbers. The value of c is 
+undefined since unsigned variables can only hold non-negative values.
+
+4. Value of i after the code snippit is 0.
+
+
