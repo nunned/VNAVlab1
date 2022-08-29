@@ -1,3 +1,22 @@
+
+Operators:
 1. 'j' is 1, 'i' is 2.
+
+2. "b"
+
+References & Pointers:
+1. "10 10"
+
+2. "1764"
+
+3. "0"
+
+4. "0"
+
+
+Numbers:
+1. All are numerical integer types that store whole number values. Short and 
+int have the ability to be atleast 16 bits, long has a size of atleast 32 bits
+and long long has the size of atleast 64 bits. 
 
 2. 
